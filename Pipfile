@@ -21,6 +21,7 @@ google-auth-oauthlib = "*"
 
 autobahn = "*"
 twisted = "*"
+idna = ">=2.5,<3"
 
 
 [requires]
